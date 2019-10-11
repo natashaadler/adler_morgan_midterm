@@ -1,4 +1,4 @@
-![This is a Picture of Fanshawe Collage](Smoking.jpeg "Fanshawe Collage") 
+![This is a Picture of Fanshawe Collage](Images/Smoking.jpeg "Fanshawe Collage") 
 
   
 
@@ -62,6 +62,6 @@ by Natasha Adler and Emily Morgan
 
   
 
-![This is a Picture of Natasha Adler](Natasha.jpeg "Natasha Adler") 
+![This is a Picture of Natasha Adler](Images/Natasha.jpeg "Natasha Adler") 
 
-![This is a picture of Emily Morgan](emily.jpeg "Emily Morgan") 
+![This is a picture of Emily Morgan](Images/emily.jpeg "Emily Morgan") 
