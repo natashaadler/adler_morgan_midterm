@@ -62,6 +62,6 @@ by Natasha Adler and Emily Morgan
 
   
 
-![This is a Picture of Natasha Adler](images/Natasha.jpeg=200x "Natasha Adler") 
+![This is a Picture of Natasha Adler](images/Natasha.jpeg "Natasha Adler") 
 
-![This is a picture of Emily Morgan](images/emily.jpeg=200x "Emily Morgan") 
+![This is a picture of Emily Morgan](images/emily.jpeg "Emily Morgan") 
