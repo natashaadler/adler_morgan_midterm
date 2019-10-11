@@ -1,4 +1,4 @@
-![This is a Picture of Fanshawe Collage](Smoking.jpg "Fanshawe Collage") 
+![This is a Picture of Fanshawe Collage](Smoking.jpeg "Fanshawe Collage") 
 
   
 
@@ -24,11 +24,11 @@ Use a modern Browser such as [Firefox](https://www.mozilla.org/en-CA/firefox/new
 
 <ul> 
 
-    <li>Html</li> 
+   <li>Html</li> 
 
-    <li>CSS</li> 
+   <li>CSS</li> 
 
-    <li>JS</li> 
+   <li>JS</li> 
 
 </ul> 
 
@@ -62,6 +62,6 @@ by Natasha Adler and Emily Morgan
 
   
 
-![This is a Picture of Natasha Adler](Natasha.jpg "Natasha Adler") 
+![This is a Picture of Natasha Adler](Natasha.jpeg "Natasha Adler") 
 
-![This is a picture of Emily Morgan](emily.jpg "Emily Morgan") 
+![This is a picture of Emily Morgan](emily.jpeg "Emily Morgan") 
